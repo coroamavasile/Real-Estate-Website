@@ -1,0 +1,40 @@
+.img {
+  position: relative;
+  text-align: center;
+}
+
+.infoContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(125, 125, 125, 0.5);
+  height: 80%;
+  width: 80%;
+}
+
+.container-news {
+  height: 100vh;
+}
+
+img {
+  height: 99vh;
+}
+
+.textAlign {
+  margin-top: 10px;
+}
+
+.subtitle {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  margin-left: 5vh;
+  margin-right: 5vh;
+}
+
+.description {
+  margin-top: 2vh;
+  margin-left: 5vh;
+  margin-right: 5vh;
+  font-size: 18px;
+}
